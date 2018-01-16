@@ -2,7 +2,7 @@
  * This is to test the submodules capabilities of git
  */
 
-#include "../subTest/openWrap.h"
+#include "../testSub/openWrap.h"
 #include <stdio.h>
 
 int main(int argc,char *argv[])
